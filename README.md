@@ -1,1 +1,1 @@
-# Custom-Substitution-Cipher-Encrypt-Decrypt-Using-Shuffled-Mapping
+# Custom-Substitution-Cipher
